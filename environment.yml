@@ -59,7 +59,7 @@ dependencies:
   - six=1.16.0
   - sqlite=3.41.2
   - tk=8.6.12
-  - tornado=6.3.6
+  - tornado=6.3.3
   - tzdata=2024a
   - wheel=0.41.2
   - xz=5.4.6
